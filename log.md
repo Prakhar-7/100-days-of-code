@@ -9,7 +9,7 @@
 
 **Link to work:** [Amazon Clone](https://github.com/Prakhar-7/Amazon-Clone)
 
-### Day 2: December 1, 2023 
+### Day 2: December 2, 2023 
 ##### (delete me or comment me out)
 
 **Today's Progress1**: Worked on my Amazon-clone project, completed "Home Page" design work and also started building "Checkout Page". 
