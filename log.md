@@ -1,23 +1,24 @@
 # 100 Days Of Code - Log
 
 ### Day 1: December 1, 2023 
-//##### (delete me or comment me out)
+##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, built Header and Home component of my Amazon Clone.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. It is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Amazon Clone](https://github.com/Prakhar-7/Amazon-Clone)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: December 1, 2023 
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress1**: Worked on my Amazon-clone project, completed "Home Page" design work and also started building "Checkout Page". 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress2**: Done some basic coding question on Coding Ninja platform which includes ques like comparison of two numbers, fibonacci series, counting digits that divide the number formed by them, etc., which involves basic concepts like if-else, switch, looping and pass by value and paas by refrence.   
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. It is still new for me, but I managed to figure out some basic functionality.
 
+**Link(s) to work**: [Amazon Clone](https://github.com/Prakhar-7/Amazon-Clone)
 
 ### Day 1: June 27, Monday
 
